@@ -28,3 +28,15 @@ This repository contains my LeetCode solutions written in Java. I use it to prac
 I am continuously learning and updating this repository with new solutions as I progress.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+<!---LeetCode Topics End-->
