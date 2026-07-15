@@ -39,4 +39,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
