@@ -69,4 +69,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
