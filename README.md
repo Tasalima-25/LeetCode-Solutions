@@ -54,6 +54,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,4 +88,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
