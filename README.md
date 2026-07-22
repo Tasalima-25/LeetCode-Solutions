@@ -43,6 +43,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -71,6 +72,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Bit Manipulation
@@ -92,4 +94,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
