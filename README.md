@@ -90,11 +90,13 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Memoization
 |  |
 | ------- |
