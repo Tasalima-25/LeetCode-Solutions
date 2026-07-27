@@ -44,6 +44,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -94,6 +95,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -113,5 +115,6 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
