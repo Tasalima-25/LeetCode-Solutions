@@ -1,0 +1,30 @@
+class Solution {
+    public double myPow(double x, int n) {
+
+        long power = n;
+
+        // Handle negative exponent
+        if (power < 0) {
+            x = 1 / x;
+            power = -power;
+        }
+
+        double result = 1;
+
+        while (power > 0) {
+
+            // If exponent is odd
+            if (power % 2 == 1) {
+                result *= x;
+            }
+
+            // Square the base
+            x *= x;
+
+            // Divide exponent by 2
+            power /= 2;
+        }
+
+        return result;
+    }
+}
