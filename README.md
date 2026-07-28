@@ -40,11 +40,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
