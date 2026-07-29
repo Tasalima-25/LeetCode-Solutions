@@ -63,6 +63,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -119,4 +121,8 @@ Happy Coding! 🚀
 | ------- |
 | [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
