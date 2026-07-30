@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
@@ -116,6 +117,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -125,4 +127,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
