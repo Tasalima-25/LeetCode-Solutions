@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -92,6 +94,7 @@ Happy Coding! 🚀
 | [0191-number-of-1-bits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
