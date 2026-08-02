@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0258-add-digits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -72,6 +73,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -158,4 +161,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
