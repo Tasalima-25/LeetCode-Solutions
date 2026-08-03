@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -165,5 +166,22 @@ Happy Coding! 🚀
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
