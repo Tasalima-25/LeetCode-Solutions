@@ -187,4 +187,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
