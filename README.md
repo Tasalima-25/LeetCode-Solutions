@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0263-ugly-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -108,6 +109,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
