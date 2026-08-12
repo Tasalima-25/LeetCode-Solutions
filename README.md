@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -133,6 +134,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
