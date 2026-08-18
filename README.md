@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0204-count-primes](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -137,6 +138,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Happy Coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -250,4 +253,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
