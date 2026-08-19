@@ -169,6 +169,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -182,6 +183,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Happy Coding! 🚀
 | [0100-same-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +200,7 @@ Happy Coding! 🚀
 | [0101-symmetric-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
