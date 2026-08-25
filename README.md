@@ -92,6 +92,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -154,6 +155,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
