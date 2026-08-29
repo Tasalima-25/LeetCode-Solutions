@@ -117,6 +117,7 @@ Happy Coding! 🚀
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0168-excel-sheet-column-title](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -275,4 +278,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
