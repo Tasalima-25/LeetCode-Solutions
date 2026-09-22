@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
@@ -153,6 +155,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -289,4 +292,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
