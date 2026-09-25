@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -90,6 +91,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [0877-stone-game](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -161,6 +163,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0705-design-hashset](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0705-design-hashset) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -296,4 +299,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Tasalima-25/LeetCode-Solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
